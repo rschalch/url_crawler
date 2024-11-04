@@ -1,0 +1,23 @@
+{
+    "total_time_of_script": 59.46,
+    "total_number_of_urls_crawled": 747,
+    "total_number_of_errors": 18,
+    "total_number_of_domains": 1,
+    "status_code_statistics": {
+        "200": 712,
+        "404": 18
+    },
+    "domain_statistics": {
+        "python.org": {
+            "total_time_to_crawl": 59.43,
+            "total_number_of_crawled_urls": 730,
+            "total_number_of_errors": 18,
+            "status_code_statistics": {
+                "200": 712,
+                "404": 18
+            },
+            "consecutive_429s": 0
+        }
+    },
+    "crawl_rate_per_second": 12.56
+}
